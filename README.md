@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazamared&label=Profile%20views&color=0e75b6&style=flat" alt="kazamared" /> </p>
 
+- 👨‍💻 I am a developer but still progressing. [https://discord.gg/7Yq3Swpnuw](https://discord.gg/7Yq3Swpnuw)
+
+- ⚡ Loading... **Process...**
+
 - 👯 I am owner to serveur on discord [https://discord.gg/7Yq3Swpnuw](https://discord.gg/7Yq3Swpnuw)
+
+- 🤝 Multiple active partners [https://discord.gg/7Yq3Swpnuw](https://discord.gg/7Yq3Swpnuw)
+
+- 💬 Fr/En/Es/Ru **Languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
