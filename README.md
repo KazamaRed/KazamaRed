@@ -1,29 +1,16 @@
 <!-- markdownlint-disable -->
-# lanyard-profile-readme
+# KazamaRed-profile-readme
 
-🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
+🏷️ My Profile
 
-_Special thanks to [@Phineas](https://github.com/Phineas/) for creating Lanyard, and making this project possible_
+## Discord
 
-## Usage
-
-First, join the Lanyard [Discord](https://discord.com/invite/WScAm7vNGF) (if you haven't already) for this to work.
-
-In a `README.md` file, include the following, replacing `:id` with your Discord user ID:
+[Discord] (https://discord.gg/9jCwgEUE) is very important
 
 ```md
 [![Discord Presence](https://lanyard.cnrad.dev/api/825089113123717151)](https://discord.com/users/825089113123717151)
 ```
-
-It should display something similar to the following (I am using my Discord user ID as an example):
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
-
-When others click it, they will be directed to your actual Discord profile. Neat!
-
-## Options
-
-There are a few options to customize this display using query parameters:
 
 ### ___Theme___
 
@@ -68,8 +55,3 @@ If you don't want people seeing the badges you have on Discord, append the query
 ```
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
-
-\
-Note: Current Nitro & Boosting badges do not work due to Discord API limitations.
-
-_If you're using this in your profile, feel free to show support and give this repo a ⭐ star! It means a lot, thank you :)_
