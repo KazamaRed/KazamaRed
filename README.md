@@ -7,7 +7,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/KazamaRed">
-    <img src="https://lanyard-profile-readme.vercel.app/api/825089113123717151"/>
+    <img src="https://lanyard.cnrad.dev/api/937816982865199144"/>
      </a>
 </p>
 
