@@ -5,13 +5,13 @@
 
 - 👨‍💻 I am a developer but still progressing. [https://discord.gg/7Yq3Swpnuw](https://discord.gg/7Yq3Swpnuw)
 
-- ⚡ Loading... **Process...**
+- ⚡ Process **Loading**
 
 - 👯 I am owner to serveur on discord [https://discord.gg/7Yq3Swpnuw](https://discord.gg/7Yq3Swpnuw)
 
 - 🤝 Multiple active partners [https://discord.gg/7Yq3Swpnuw](https://discord.gg/7Yq3Swpnuw)
 
-- 💬 Fr/En/Es/Ru **Languages**
+- 💬 Languages **Fr/En/Es/Ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
