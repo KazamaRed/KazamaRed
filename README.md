@@ -7,7 +7,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/KazamaRed">
-    <img src="https://lanyard.cnrad.dev/api/937816982865199144"/>
+    <img src="https://lanyard.cnrad.dev/api/796560997912805428"/>
      </a>
 </p>
 
